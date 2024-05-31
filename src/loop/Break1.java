@@ -1,4 +1,4 @@
-package loop.ex;
+package loop;
 
 
 public class Break1 {
